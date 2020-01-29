@@ -1,4 +1,6 @@
 # Kubernetes
+See also https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 * `kubectl cp /local_dir <k8s-namespace>/<pod-name>:/destination`: copy from local disk to destination. Reverse for the oposite action.
 * `kubectl top nodes`: Top on nodes.
 
