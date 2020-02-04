@@ -4,6 +4,9 @@
 * `date.strftime(<date format>)` -> date to string
 * `datetime.strptime(date_str, <date format>)` -> str to date
 
+See also: 
+* https://pythex.org/
+
 ## NNs
 
 | Problem                                 | Activation  | Loss                     |
