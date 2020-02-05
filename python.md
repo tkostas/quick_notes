@@ -4,8 +4,9 @@
 * `date.strftime(<date format>)` -> date to string
 * `datetime.strptime(date_str, <date format>)` -> str to date
 
-See also: 
-* https://pythex.org/
+See also:
+* https://strftime.org/
+
 
 ## NNs
 
@@ -21,5 +22,8 @@ See also:
 ## regex
 * `$`: match end.
 * `^`: match start.
+
+See also: 
+* https://pythex.org/
 
 
