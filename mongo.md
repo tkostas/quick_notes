@@ -4,3 +4,7 @@
 
 * `db.collection.getIndexes()`:
 * `db.collection.createIndex( { key_name: 1 }, { unique: true } )`:
+
+
+See also: 
+* https://api.mongodb.com/python/current/tutorial.html
