@@ -42,6 +42,9 @@ See https://docs.microsoft.com/en-us/python/api/azure-storage-blob/azure.storage
 ```
 with open(myfile, 'rb') as f:
   blob_client.upload_blob(f)
+  
+# to remove blob (see also docs)  
+blob_client.delete_blob()  
 ```
 
 
