@@ -30,7 +30,7 @@ See also:
 ## Azure blobs
 See https://docs.microsoft.com/en-us/python/api/azure-storage-blob/azure.storage.blob.blobserviceclient?view=azure-python
 
-* `pip install azure-blob-client`
+* `pip install azure-storage-blob`
 * `blob_service_client = BlobServiceClient.from_connection_string(con_str)`: create blob client
 * `blob_service_client.create_container(container_name)`: raises `ResourceExistsError` if container exists.
 * `blob_service_client.list_containers()`: generator of existing containers.
