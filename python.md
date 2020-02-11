@@ -38,9 +38,10 @@ See https://docs.microsoft.com/en-us/python/api/azure-storage-blob/azure.storage
 * `container_client.list_blobs()`: generator of existing blobs.
 * `blob_client = container_client.get_blob_client(blob=filename)`: starting from container_client
 * `blob_client = blob_service_client.get_blob_client(container=container_name, blob=filename)`: starting from blob_service_client
-* ```
+* Upload locally saved blob. Will raise `ResourceExistsError` if already exists.
+```
 with open(myfile, 'rb') as f:
   blob_client.upload_blob(f)
-  ```
+```
 
 
