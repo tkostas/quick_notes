@@ -16,7 +16,7 @@ See also:
 | Multiclass, single-label classification | softmax     | Categoric crossentropy   |
 | Multiclass, multilabel classification   | sigmoid     | Binary crossentropy      |
 | Regression                              | none        | MSE                      |
-| Regration to 0-1 (1 node)|              | signoid     | MSE/binary cross entropy |
+| Regression to 0-1 (1 node)              | signoid     | MSE/binary cross entropy |
 
 
 ## regex
