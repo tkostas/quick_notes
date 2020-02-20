@@ -7,3 +7,10 @@ See also https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 # Minikube
 * `sudo cp /run/systemd/resolve/resolv.conf /etc/resolv.conf`: Replace local dns config (*More info to be added*).
+
+# Helm
+See also https://helm.sh/docs/intro/using_helm/
+
+* `helm install ...`: ...
+* `helm uninstall ...`: ...
+* `helm list`: ...
