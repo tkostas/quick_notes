@@ -5,7 +5,7 @@
 * [Kubernetes](kubernetes.md)
 * [MongoDB](mongo.md)
 * [Python](python.md)
-* [Theroy/Algorithms](theory.md)
+* [Theory/Algorithms](theory.md)
 
 <br>
 
