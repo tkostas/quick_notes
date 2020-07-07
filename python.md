@@ -26,6 +26,7 @@ See also:
 See also: 
 * https://pythex.org/
 * https://regexr.com/
+* https://www.regular-expressions.info/tutorial.html 
 
 
 ## Azure blobs
