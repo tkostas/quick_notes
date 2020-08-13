@@ -31,7 +31,11 @@ See also:
 ## Django
 * `django-admin startproject <my-project-name>`
 * `python manage.py startapp <my-app-name>`
+* `python manage.py shell`
 * `python manage.py runserver`
+* `python manage.py makemigrations`
+* `python manage.py migrate`
+* `python manage.py createsuperuser`
 
 
 ## Azure blobs
