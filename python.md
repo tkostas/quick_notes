@@ -28,6 +28,11 @@ See also:
 * https://regexr.com/
 * https://www.regular-expressions.info/tutorial.html 
 
+## Django
+* `django-admin startproject <my-project-name>`
+* `python manage.py startapp <my-app-name>`
+* `python manage.py runserver`
+
 
 ## Azure blobs
 See https://docs.microsoft.com/en-us/python/api/azure-storage-blob/azure.storage.blob.blobserviceclient?view=azure-python
