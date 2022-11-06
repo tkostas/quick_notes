@@ -10,6 +10,7 @@ See also https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 * `minikube start`: start cluster
 * `minikube stop`: stop cluster
 * `minikube start --memory 16000 --cpus 4`: start with custom resources
+* `minikube dashboard`: open the dashboard
 * `sudo cp /run/systemd/resolve/resolv.conf /etc/resolv.conf`: Replace local dns config (*More info to be added*).
 
 # MicroK8s
