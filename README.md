@@ -7,6 +7,7 @@
 * [Python](python.md)
 * [SQL/RDBSs](sql_rdbms.md)
 * [Theory/Algorithms](theory.md)
+* [Deep learning resources](dl_learning_resources.md)
 
 <br>
 
