@@ -2,7 +2,7 @@
 
 ## General courses
 * Coursera deep learning specialization by Andrew Ng, DeepLearning.AI --> https://www.coursera.org/specializations/deep-learning
-* Deep learning course from Yann LeCun & Alfredo Canziani --> https://atcold.github.io/pytorch-Deep-Learning/
+* Deep learning course by Yann LeCun & Alfredo Canziani --> https://atcold.github.io/pytorch-Deep-Learning/
 
 ## NLP
 * Coursera NLP specialization by Younes Bensouda Mourri, Łukasz Kaiser --> https://www.coursera.org/specializations/natural-language-processing
@@ -12,3 +12,7 @@
 
 ## Other 
 ...tbd...
+
+## Books
+* Deep learning patterns and practices --> https://www.manning.com/books/deep-learning-patterns-and-practices (read it)
+* ... more ...
