@@ -10,6 +10,9 @@
 * Speech and Language Processing by Dan Jurafsky and James H. Martin --> https://web.stanford.edu/~jurafsky/slp3/
 
 
+## Life-sciences
+* MIT DL in life sciences github repo: https://mit6874.github.io/
+
 ## Other 
 ...tbd...
 
