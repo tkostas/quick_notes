@@ -59,4 +59,33 @@ with open(myfile, 'rb') as f:
 blob_client.delete_blob()  
 ```
 
+## Async
+### Make async http requests
+```python
+from datetime import datetime
+import asyncio
+import httpx
+
+urls = ["http://...", "..."]
+
+
+async def single_request(client, url):
+    r = await client.get(url)
+        
+    return r.json()['args']
+
+
+async def make_async_requests():
+    async with httpx.AsyncClient() as client:
+        coroutines_list = []
+        for url in urls:
+            coroutines_list.append(single_request(client, url))
+        data = await asyncio.gather(*coroutines_list)
+
+start = datetime.now()
+# asyncio.run(make_async_requests())  # if you run from script
+await make_async_requests()           # if you run from notebook
+print(f'Run time: {datetime.now()-start}')
+```
+See also https://www.python-httpx.org/async/
 
